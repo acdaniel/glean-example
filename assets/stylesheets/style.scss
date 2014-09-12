@@ -1,0 +1,11 @@
+$link-color: #00b7ff;
+$padding: 50px;
+
+body {
+  padding: $padding;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  a {
+    color: $link-color;
+  }
+}
+

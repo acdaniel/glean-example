@@ -1,0 +1,24 @@
+{
+  "name": "glean-example",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "~4.8.6",
+    "body-parser": "~1.6.6",
+    "cookie-parser": "~1.3.2",
+    "morgan": "~1.2.3",
+    "serve-favicon": "~2.0.1",
+    "jade": "~1.5.0",
+    "glean": "^0.9.0",
+    "glean-sass": "^0.9.0",
+    "glean-browserify": "^0.9.0",
+    "debug": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "glean-gulp": "^0.9.0"
+  }
+}
